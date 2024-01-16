@@ -1,0 +1,31 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Radhika Achikanath Chirakkara
+    - name: Date of Birth
+      value: 16 November 1997
+    - name: Email
+      value: Radhika.AchikanathChirakkara@anu.edu.au
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD (Current Affiliation)
+      institution: Research School of Astronomy and Astrophysics, Australian National Univeristy, Canberra, Australia
+      year: 2021 -
+    - title: Undergraduate and Masters
+      institution: BS-MS Dual Degree from the Indian Institute of Science Education and Research (IISER), Pune, India
+      year: 2015 - 2020
+      description:
+        - CGPA - 9.6/10
+    - title: Higher Secondary School Education
+      institution: Central Board of Secondary Education (CBSE), India
+      year: 2015
+      description:
+        - 94.6 %
+    - title: Secondary School
+      institution: Central Board of Secondary Education (CBSE), India
+      year: 2013
+      description:
+        - 95 %
