@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 <b>Publically Available Talks</b>
-
+---
 • ASA Early Career Researchers Symposium Series, Univeristy of New South Wales, Sydney, Australia, 8 Nov 2023 \\
 [https://www.youtube.com/watch?v=nrG_t41uCCQ&ab_channel=ASAEarlyCareerResearchersChapter](https://www.youtube.com/watch?v=nrG_t41uCCQ&ab_channel=ASAEarlyCareerResearchersChapter)
 
@@ -22,6 +22,7 @@ nav_order: 5
 [https://www.youtube.com/watch?v=9E_g3Jw2IWY&ab_channel=RASGalacticMagneticFields](https://www.youtube.com/watch?v=9E_g3Jw2IWY&ab_channel=RASGalacticMagneticFields)
 
 <b>Seminars, Talks, Conferences and Workshops</b>
+---
 
 <b>2025</b>
 
